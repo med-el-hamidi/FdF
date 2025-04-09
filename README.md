@@ -7,7 +7,7 @@ Can be found in 42Paris's internal resources (check your school's intranet or as
 
 # Installation
 1. Clone this repository
-2. Otain mlx_linux from 42Paris resources OR from [[Here](https://github.com/42Paris/minilibx-linux)
+2. Otain mlx_linux from 42Paris resources OR from [Here](https://github.com/42Paris/minilibx-linux)
 3. Compile & Run
 ```sh
 make && ./fdf test_maps/42.fdf
