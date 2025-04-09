@@ -25,8 +25,8 @@ Example map:
 0 10 0
 0 0 0
 ```
-Each number = height.
-Rows must have equal columns.
+- Each number = height.
+- Rows must have equal columns.
 
 Notes
 - This implementation covers only the mandatory requirements
