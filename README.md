@@ -15,8 +15,7 @@ make && ./fdf test_maps/42.fdf
 ```
 
 # Controls
-- ESC  -->  Quit program
-- X  -->  Button	Close window
+- ESC and X Button  -->  Quit program safely and Close window.
 
 File Format
 Example map:
