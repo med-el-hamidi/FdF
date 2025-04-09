@@ -3,11 +3,11 @@ FdF (Fil de Fer) is a simple 3D wireframe viewer that renders height maps in iso
 
 # Requirements
 MiniLibX library for Linux (mlx_linux)
-Can be found in 42Paris's internal resources (check your school's intranet or ask your peers for the download link)
+Can be found in 42Paris's internal resources (OR from [Here](https://github.com/42Paris/minilibx-linux))
 
 # Installation
 1. Clone this repository
-2. Otain mlx_linux from 42Paris resources OR from [Here](https://github.com/42Paris/minilibx-linux)
+2. Otain & extract minilibx-linux then rename it into mlx_linux
 3. Unzip maps.zip
 4. Compile & Run
 ```sh
