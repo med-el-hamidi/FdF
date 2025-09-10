@@ -11,6 +11,8 @@ Can be found in 42Paris's internal resources (OR from [Here](https://github.com/
 3. Unzip maps.zip
 4. Compile & Run
 ```sh
+git clone https://github.com/med-el-hamidi/FdF.git
+cd FdF
 git clone https://github.com/42paris/minilibx-linux.git mlx_linux
 unzip maps.zip
 make
