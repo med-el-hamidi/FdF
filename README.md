@@ -11,7 +11,10 @@ Can be found in 42Paris's internal resources (OR from [Here](https://github.com/
 3. Unzip maps.zip
 4. Compile & Run
 ```sh
-make && ./fdf test_maps/42.fdf
+git clone https://github.com/42paris/minilibx-linux.git mlx_linux
+unzip maps.zip
+make
+./fdf test_maps/42.fdf
 ```
 
 # Controls
